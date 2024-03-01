@@ -1,0 +1,70 @@
+Python
+Exploratory Data Analysis to Machine Learning, Deep Learning
+
+· Python
+· Machine Learning  
+· Data Visualisation  
+· SQL  
+· Artificial Intelligence
+· Data Analysis
+
+Analytics tools and technologies: Python, Tableau, SQL.
+Machine learning techniques: Regression, Predictive Modelling, Clustering, Time Series Forecasting, Classification
+Statistics and data modelling
+Data cleaning and Data transformation operations
+Deep learning, Natural Language Processing (NLP)
+
+
+End: Data analyst, Data engineer, Data scientist
+
+*****
+FOUNDATIONS
+	programming using Python
+	programming using R
+	Database Management System using My SQL
+DATA ANALYSIS
+	Statistical Methods for Decision Making
+	Exploring Data Analysis
+MACHINE LEARNING TECHNIQUES
+	Supervised Learning - Regression
+	Ensemble Techniques
+	Unsupervised Learning
+	Machine Learning Model Deployment using Flask
+	Supervised Learning - Classification
+DATA VISUALIZATION
+	Tableau
+	Google Data Studio
+	Power BI
+ARTIFICIAL INTELLIGENCE
+	Time Series Forecasting
+	Text Mining And Sentimental Analysis
+	Introduction to Natural Language Processing
+	Reinforcement Learning
+	Introduction to Neural Networks and Deep Learning
+	Computer vision
+*****
+PROJECTS
+	1. E-commerce: Text Mining, Kmeans Clustering, Regression Trees, XGBoost, Neural Network
+	2. Retail: Market Basket Analysis, RFM (Recency-Frequency Monetary) Analysis, Time Series Forecasting
+	3. Banking: Linear Discriminant Analysis, Logistic Regression, Neural Network, Boosting, Random Forest, CART
+	4. Web & Social Media: Topic Modeling using 9 Latent Dirichlet Allocation. K-Means & Hierarchical Clustering
+	5. Healthcare: Logistic Regression, Random Tree, ADA Boost, Random Forest, KSVM
+	6. Supply Chain: Text Mining, Kmeans Clustering, Regression Trees, XGBoost, Neural Network
+	7. Insurance: NLP (Natural Language Processing), Vector Space Model, Latent Semantic Analysis
+	8. Science and Technology: Market Basket Analysis, Brand Loyalty Analysis
+	9. Finance & Accounts: Conditional Inference Tree, Logistic Regression, CART and Random Forest
+	10. Entrepreneurship/Start Ups: Univariate and Bivariate Analysis, Multinomial Logistic Regression, Random Forest
+******
+Roles Offered
+	1. Analytics Consultant
+	2. Manager – Analytics
+	3. Data Analyst
+	4. Data Scientist
+	5. Data Engineer
+	6. ML Engineer
+	7. AI Engineer
+	8. Reporting Analyst
+	9. Research Executive
+	10. Statistician
+	
+Data Analytics, Data Science, Big Data, Machine Learning, Artificial Intelligence, Deep Learning, Cloud Computing	

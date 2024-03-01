@@ -1,0 +1,118 @@
+Session1 Notes:
+
+Data science: collecting unstructured data -> make it structured -> apply useful algorithms -> get insight of it
+
+AI	-> ML (limited amount of data)
+	-> Deep Learning (huge amount of data -> Big Data)
+
+Programming languages in Data Science: R, Python (NumPy, Pandas, Matplotlib, Searborn)
+Tableau / Power BI -> to show the insights, back-up presentations tool. Replace pptx and excel
+
+Python is better to use for Data Science because it has a lot of external libraries. Other programming languages doesn’t have enough libraries
+
+Python can be used in: web development, back-end development, site-design UI/UX, machine learning, deep learning, computer vision.
+
+TensorFlow -> Framework -> Google
+PyTorch -> Framework -> Meta / Facebook
+
+Google Data Studio -> Similar to Power BI
+
+SQL (structured query language) -> language to manage the data in a management system
+
+Tableau -> similar to PowerBI
+
+***
+
+ How the class will run?
+1. Recap
+2. Start the topic -> Agenda and the Goal of the session
+3. The concepts should be clear from the class
+4. Assignment to solve
+
+***
+Data Analyst -> analyse the data (Ms Excel, Tableau, PowerBI, Google DataStudio, sql).
+Business Analyst -> speak with client (No IT)
+Data Scientist -> tools
+	-> Jr. Data Scientist 
+	-> Decision Scientist
+	-> ML Engineer
+	-> Big Data Engineer
+
+->  We need the Knowledge and we need the certificates (the proof)
+
+***
+
+How do we learn ML Algorithms?
+
+Maths + Python  -> Data Science  (ML Algorithms) 	
+Ex: Linear Regression 
+	1. Theory -> why do we need it?
+	2. Maths -> drive all the equations
+	3. Coding (hands on, follow a pipeline)
+	4. Exercise
+
+Programming language: bridge that convert human (high level) language to computer (low level - format 0 and 1) language
+
+
+ML (branch of computer science)
+1. Supervised
+2. UnSupervised
+3. Reinforcement
+
+***************
+
+Session2 Notes:
+
+Goal / Agenda
+1. Introduction to programming 
+2. Python programming 
+3. Software requirements
+4. Anaconda & Google Colab
+
+What is a programming language? = bridge between high level language and low level language
+
+Language translator:
+1. Compiler -> compiles the complete code at once: C, C++
+2. Interpreter -> it executes the code line by line: Python
+
+Compiler is faster than interpreter
+***
+Software requirements:
+Python: 
+	-> Software development
+	-> Data Science
+
+Offline tool -> Jupyter Notebook -> Anaconda navigator
+Online tool -> Google Collab -> Gmail
+
+***************
+
+Session3 Notes:
+
+Goal / Agenda
+1. How to use the tool
+2. What is python programming
+3. Language translator (compiler, interpreter)
+4. How to write in python (variable, data types)
+
+IDE (Integrated Development Environment) = Interactive text editor
+
+Python
+	-> general purpose programming language
+	-> high level programming language
+	-> case sensitive programming language
+	-> object oriented programming
+
+Variables & Data types
+	Variable = container to store data values
+	Data Type = the kind of value we are storing inside variable
+	type() = it will state the datatype name
+
+***************
+
+Session4 Notes:
+
+Goal / Agenda
+1. Operators in Python (assignment, arithmetic, comparison, logical, membership)
+
+***************

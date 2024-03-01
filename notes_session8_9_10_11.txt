@@ -1,0 +1,28 @@
+Session8 Notes:
+
+Goal / Agenda:
+1. Functions on Python
+2. Functions with parameters
+3. Functions with return
+4. Lambda functions
+
+Session9 Notes:
+
+Goal / Agenda
+1. High order functions (map, filter, reduce)
+2. OOPs (class, object) 
+
+
+Session10 Notes:
+
+Goal / Agenda
+1. Self parameter
+2. Constructor & __init__
+3. Parametrised Constructor
+4. Principle of OOPs (Inheritance)
+
+Session11 Notes:
+
+Goal / Agenda
+1. Encapsulation (private & public variable)
+2. Polymorphism

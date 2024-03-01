@@ -1,0 +1,24 @@
+Session12 Notes:
+
+Goal / Agenda
+1.  Numpy (1D_Array, 2D_Array)
+
+Session13 Notes:
+
+Goal / Agenda
+1. np.zeros()
+2. np.ones()
+3. matrix multiplication
+
+Session14 Notes:
+
+Goal / Agenda
+1. Explanation assignment2
+2. Numpy: arange(), rand(), randint(), reshape()
+
+Session15 Notes:
+
+Goal / Agenda
+1. Slicing array in 2D, 3D
+2. np.sort()
+3.  Pandas Theory

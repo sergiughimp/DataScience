@@ -1,0 +1,42 @@
+Session5 Notes:
+
+Goal / Agenda
+1. User defined input (static & dynamic allocation)
+2. List
+3. Tuple
+4. Dictionary
+5. Sets
+
+Assignment:
+1. How to convert the list into tuple?
+2. How to covert the tuple into the list?
+****
+
+Session6 Notes:
+
+Goal / Agenda
+1. Condition statement in Python (if, else, elif)
+2. Strings slicing (start, end, skip)
+
+****
+
+Session7 Notes:
+
+Goal / Agenda
+1. Negative indexing
+2. Loops (for, while)
+3. break and continue statement
+
+Assignment session7
+1. Armstrong number
+2. Fibonacci series
+3. Factorial
+4. Ascii value of character
+5. Change the first element of the list with the last
+6. Reverse list
+7. Sum of elements in list
+8. Add elements of 2 matrices
+9. Palindrome
+10. Reverse the string
+11. The presence of a ‘substring’ in a string
+12. Prime number

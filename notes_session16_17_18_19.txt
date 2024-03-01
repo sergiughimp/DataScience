@@ -1,0 +1,28 @@
+Session16 Notes:
+
+Goal / Agenda
+1. Pandas Series from list, tuple, array
+2. Pandas DataFrame
+3. Load data into DataFrame
+
+Session17 Notes:
+
+Goal / Agenda
+1. Creating DataFrame from list, tuple, array, dict, list of list, tuple of tuple
+
+Session18 Notes:
+
+Goal / Agenda
+1. Slicing in Pandas
+2. Operations of splitting with loc(), iloc()
+3. drop()
+
+Session19 Notes:
+
+Goal / Agenda
+1. Dealing with missing value
+    1. remove the missing value: dropna()
+    2. fill the missing value: fillna(
+        1. Global constant -> 0
+        2. mean
+        3. median
